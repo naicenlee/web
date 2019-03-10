@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+#bg{background:blue;}
+#wd{border:5px solid #000;}
+
+#t_top{position:absolute;top:30px;left:30px;display:block;text-decoration:none;color:#000;}
+#t_copy{position:absolute;bottom:20px;right:5%;display:block;}
+
+#t_title{font-size:20px;}
+
+#t_cont{position:fixed;left:20px;top:70px;//border:1px solid #fff;}
+
+//.ico{float:left;width:80px;height:80px;background:url(/webos/public/front/image/png/test.png) no-repeat;margin:15px;}
+.ico:hover{border-radius:15px;}
+.i_font{position:relative;top:30px;font-size:20px;}
+
+#t_load{float:right;}
+#t_load a{color:#fff;}
+			
