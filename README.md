@@ -1,5 +1,7 @@
-# web
-webos-2.0  现改名位NaicenBlog
+# NaicenBlog
+NaicenBlog 原名 webos 本意为网页系统。
+
+目前最新2.0版本.
 
 NaicenBlog使用原生php编程语言编写，用html和css3以及javascript作为前台和后台的页面。
 
